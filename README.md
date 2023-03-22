@@ -2,6 +2,9 @@
 
 ## Live links
 - Leaflet Map https://hartford-abg.github.io/caribbean-story-map
+
+Data uploaded in CSV format to GitHub from this temporary worksheet:
+
 - Google Sheets template https://docs.google.com/spreadsheets/d/1Z4PMdsj29IXOCPqpulrcV1DTBTR3wgh5-knyNoJT0ZA/edit#gid=0
 
 - GeoJSON lines drawn in https://geojson.io, modified files using exact coordinates from Google Sheet, then uploaded to `geojson` folder
